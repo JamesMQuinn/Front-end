@@ -1,0 +1,13 @@
+.returnedReservations {
+    position: static;
+    padding-left: 75%;
+    top: 50%;
+    width: 15%;
+    font-size: 12px;
+    padding-bottom: 23px;
+    text-align: center;
+}
+
+td {
+    padding-left: 13px;
+}

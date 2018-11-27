@@ -1,0 +1,26 @@
+.options {
+    position: static;
+    text-align: right;
+    width: 20%;
+    padding-left: 37%;
+    top: 30%;
+    border: solid, white, 10px;
+}
+
+h1 {
+    position: static; 
+    text-align: center;
+    width: 100%;
+    top: 20%;
+    border: solid, white, 10px;
+}
+
+.alert {
+    margin-top: 15px;
+    margin-left: 35px;
+    background-color: white;
+    color: red;
+    width:23%;
+    position: absolute;
+    text-align: center;
+}
